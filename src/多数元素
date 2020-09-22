@@ -1,0 +1,23 @@
+/*
+Boyer-Moore算法：
+维护一个候选中暑candidate和它出现的次数count。初始时candidate为数组中任意一个数，count为0
+遍历数组中的元素，对每个元素x，如果count为0,就将x赋值给candidate,然后判断x：
+如果x与candidate相等，count加1；
+如果x与candidate不相等，count减1；
+遍历完成后，candidate即为数组的众数
+*/
+class Solution {
+    public int majorityElement(int[] nums) {
+        int count = 0;
+        Integer candidate = null;
+
+        for (int num : nums) {
+            if (count == 0) {
+                candidate = num;
+            }
+            count += (num == candidate) ? 1 : -1;
+        }
+
+        return candidate;
+    }
+}

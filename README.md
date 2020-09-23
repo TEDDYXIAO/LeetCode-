@@ -6,3 +6,5 @@ LeetCode刷题笔记：
 [监控二叉树](https://leetcode-cn.com/problems/binary-tree-cameras)
 
 [多数元素](https://leetcode-cn.com/problems/majority-element)
+
+[合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/)

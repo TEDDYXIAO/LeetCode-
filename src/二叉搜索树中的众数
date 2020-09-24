@@ -1,0 +1,37 @@
+class Solution {
+    List<Integer> mlist = new ArrayList<>();
+    int current = 0;
+    int count = 0;
+    int maxCount = 0;
+
+    public int[] findMode(TreeNode root) {
+        inOrderTraversal(root);
+        int[] res = new int[mlist.size()];
+        for(int i = 0 ;i<mlist.size();i++){
+            res[i] = mlist.get(i);
+        }
+        return res;
+    }
+
+    private void inOrderTraversal(TreeNode node){
+        if(node == null){
+            return;
+        }
+        inOrderTraversal(node.left);
+        int nodeValue = node.val;
+        if(nodeValue == current){
+            count++;
+        }else{
+            current = nodeValue;
+            count = 1;
+        }
+        if(count == maxCount){
+            mlist.add(nodeValue);
+        }else if(count > maxCount){
+            mlist.clear();
+            mlist.add(current);
+            maxCount = count;
+        }
+        inOrderTraversal(node.right);
+    }
+}

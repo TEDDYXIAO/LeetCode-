@@ -14,3 +14,5 @@ LeetCode刷题笔记：
 2020.9.24
 
 [二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/)
+
+[Z字形变换](https://leetcode-cn.com/problems/zigzag-conversion/)

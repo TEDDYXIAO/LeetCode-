@@ -7,4 +7,10 @@ LeetCode刷题笔记：
 
 [多数元素](https://leetcode-cn.com/problems/majority-element)
 
+2020.9.23
+
 [合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/)
+
+2020.9.24
+
+[二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/)

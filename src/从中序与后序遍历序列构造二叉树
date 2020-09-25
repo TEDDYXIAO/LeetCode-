@@ -1,0 +1,29 @@
+/*
+后序遍历最后一个节点是根节点
+根据中序遍历根节点两端分别是左子树和右子树
+*/
+class Solution {
+    HashMap<Integer,Integer> memo = new HashMap<>();
+    int[] post;
+    public TreeNode buildTree(int[] inorder, int[] postorder) {
+        for(int i = 0;i<inorder.length;i++) memo.put(inorder[i],i);
+        post = postorder;
+        TreeNode root = buildTree(0,inorder.length-1,0,postorder.length-1);
+        return root;
+
+    }
+
+    public TreeNode buildTree(int is,int ie,int rs,int re){
+        if(is > ie || rs > re) return null;
+
+        int root = post[re];
+        int ri = memo.get(root);
+
+        TreeNode node = new TreeNode(root);
+        node.left = buildTree(is,ri-1,rs,rs+ri-is-1);
+        node.right = buildTree(ri+1,ie,rs+ri-is,re-1);
+
+        return node;
+
+    }
+}

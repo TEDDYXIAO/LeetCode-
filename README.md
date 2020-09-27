@@ -27,4 +27,7 @@ LeetCode刷题笔记：
 
 [路径总和II](https://leetcode-cn.com/problems/path-sum-ii/)
 
+2020.9.27
+
+[二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 

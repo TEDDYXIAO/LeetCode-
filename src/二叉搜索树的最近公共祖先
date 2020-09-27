@@ -1,0 +1,21 @@
+/*
+p和q的最近公共祖宗即二叉搜索树的分岔点
+若p和q都比root的值低，那么都在左子树
+若p和q都比root的值高，那么都在右子树
+若p和q一个比root大，一个比root小，那么root就是公共祖先
+*/
+class Solution {
+    public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
+        TreeNode ancestor = root;
+        while(true){
+            if(ancestor.val < p.val && ancestor.val < q.val){
+                ancestor = ancestor.right;
+            }else if (ancestor.val > p.val && ancestor.val > q.val){
+                ancestor = ancestor.left;
+            }else{
+                break;
+            }
+        }
+        return ancestor;
+    }
+}

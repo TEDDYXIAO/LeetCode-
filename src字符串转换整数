@@ -1,0 +1,48 @@
+class Solution {
+    public int myAtoi(String str) {
+        char[] cstr = str.toCharArray();
+        int rev = 0;
+        int sig = 1;
+        int pop = 0;
+        int i = 0;
+        for(;i<cstr.length;i++){
+            if(cstr[i] == ' '){
+                continue;
+            }
+            else{
+                if(cstr[i] == '+'){
+                    sig = 1;
+                    i++;
+                    break;
+                }
+                if(cstr[i] == '-'){
+                    sig = -1;
+                    i++;
+                    break;
+                }
+                if(cstr[i]<'0'||cstr[i]>'9'){
+                    return 0;
+                }else{
+                    break;
+                }
+            }
+        }
+        if(i == cstr.length){
+            return 0;
+        }
+        for(;i < cstr.length; i++){
+            if(cstr[i] <'0' || cstr[i] >'9'){
+                return rev;
+            }
+            pop = (cstr[i] -48) * sig;
+            if(rev>Integer.MAX_VALUE/10 || (rev == Integer.MAX_VALUE / 10 && pop > 7)){
+                return Integer.MAX_VALUE;
+            }
+            if(rev<Integer.MIN_VALUE/10 || (rev == Integer.MIN_VALUE / 10 && pop < -8)){
+                return Integer.MIN_VALUE;
+            }
+            rev = rev * 10 + pop;
+        }
+        return rev;
+    }
+}

@@ -39,3 +39,5 @@ LeetCode刷题笔记：
 
 [字符串转换整数](https://leetcode-cn.com/problems/string-to-integer-atoi/)
 
+[表示数值的字符串](https://leetcode-cn.com/leetbook/read/illustration-of-algorithm/5d6vi6/)
+

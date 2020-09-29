@@ -41,3 +41,7 @@ LeetCode刷题笔记：
 
 [表示数值的字符串](https://leetcode-cn.com/leetbook/read/illustration-of-algorithm/5d6vi6/)
 
+2020.9.29
+
+[二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)
+

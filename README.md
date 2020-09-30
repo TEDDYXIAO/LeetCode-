@@ -45,3 +45,6 @@ LeetCode刷题笔记：
 
 [二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)
 
+2020.9.30
+
+[二叉搜索树中的插入](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)

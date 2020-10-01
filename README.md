@@ -48,3 +48,7 @@ LeetCode刷题笔记：
 2020.9.30
 
 [二叉搜索树中的插入](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)
+
+2020.10.1
+
+[秋叶收藏集](https://leetcode-cn.com/problems/UlBDOe/)

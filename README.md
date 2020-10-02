@@ -52,3 +52,7 @@ LeetCode刷题笔记：
 2020.10.1
 
 [秋叶收藏集](https://leetcode-cn.com/problems/UlBDOe/)
+
+2020.10.2
+
+[宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/)

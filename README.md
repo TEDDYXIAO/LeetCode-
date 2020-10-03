@@ -56,3 +56,7 @@ LeetCode刷题笔记：
 2020.10.2
 
 [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/)
+
+2020.10.3
+
+[两数之和](https://leetcode-cn.com/problems/two-sum/)

@@ -72,3 +72,7 @@ LeetCode刷题笔记：
 2020.10.6
 
 [树中距离之和](https://leetcode-cn.com/problems/sum-of-distances-in-tree/)
+
+2020.10.7
+
+[颜色分类](https://leetcode-cn.com/problems/sort-colors/)

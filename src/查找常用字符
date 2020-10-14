@@ -1,0 +1,24 @@
+class Solution {
+    public List<String> commonChars(String[] A) {
+        int [] minfraq = new int[26];
+        Arrays.fill(minfraq,Integer.MAX_VALUE);
+        for(String word:A){
+            int[] fraq = new int[26];
+            int length = word.length();
+            for(int i = 0;i<length;i++){
+                char ch = word.charAt(i);
+                fraq[ch-'a']++;
+            }
+            for(int i = 0;i<26;i++){
+                minfraq[i] = Math.min(fraq[i],minfraq[i]);
+            }
+        }
+        List<String> ans = new ArrayList<String>();
+        for(int i = 0;i<26;i++){
+            for(int j = 0;j<minfraq[i];j++){
+                ans.add(String.valueOf((char)('a'+i)));
+            }
+        }
+        return ans;
+    }
+}

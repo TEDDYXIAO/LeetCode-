@@ -100,3 +100,7 @@ LeetCode刷题笔记：
 2020.10.13
 
 [两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
+
+2020.10.14
+
+[查找常用字符](https://leetcode-cn.com/problems/find-common-characters/)

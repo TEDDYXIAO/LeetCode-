@@ -108,3 +108,7 @@ LeetCode刷题笔记：
 2020.10.15
 
 [填充每个节点的下一个右侧节点](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)
+
+2020.10.16
+
+[有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)

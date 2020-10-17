@@ -112,3 +112,7 @@ LeetCode刷题笔记：
 2020.10.16
 
 [有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)
+
+[2020.10.17]
+
+[N皇后II](https://leetcode-cn.com/problems/n-queens-ii/)

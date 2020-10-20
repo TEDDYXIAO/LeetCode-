@@ -120,3 +120,11 @@ LeetCode刷题笔记：
 2020.10.18
 
 [删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
+
+2020.10.19
+
+[比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/)
+
+2020.10.20
+
+[重排链表](https://leetcode-cn.com/problems/reorder-list/)

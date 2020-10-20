@@ -1,49 +1,21 @@
 class Solution {
-    public void reorderList(ListNode head) {
-        if(head == null){
-            return;
-        }
-        ListNode mid = middleNode(head);
-        ListNode l1 = head;
-        ListNode l2 = mid.next;
-        mid.next = null;
-        l2 = reverse(l2);
-        mergeList(l1,l2);
+    public boolean backspaceCompare(String S, String T) {
+        return build(S).equals(build(T));
     }
 
-    public ListNode middleNode(ListNode head){
-        ListNode slow = head;
-        ListNode fast = head;
-        while(fast.next != null && fast.next.next != null){
-            fast = fast.next.next;
-            slow = slow.next;
+    public String build(String str) {
+        StringBuffer ret = new StringBuffer();
+        int length = str.length();
+        for (int i = 0; i < length; ++i) {
+            char ch = str.charAt(i);
+            if (ch != '#') {
+                ret.append(ch);
+            } else {
+                if (ret.length() > 0) {
+                    ret.deleteCharAt(ret.length() - 1);
+                }
+            }
         }
-        return slow;
-    }
-
-    public ListNode reverse(ListNode head){
-        ListNode prev = null;
-        ListNode curr = head;
-        while(curr != null){
-            ListNode nextTemp = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = nextTemp;
-        }
-        return prev;
-    }
-
-    public void mergeList(ListNode l1,ListNode l2){
-        ListNode l1_tmp;
-        ListNode l2_tmp;
-        while(l1 != null && l2 != null){
-            l1_tmp = l1.next;
-            l2_tmp = l2.next;
-            l1.next = l2;
-            l1 = l1_tmp;
-            
-            l2.next = l1;
-            l2 = l2_tmp;
-        }
+        return ret.toString();
     }
 }

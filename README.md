@@ -128,3 +128,7 @@ LeetCode刷题笔记：
 2020.10.20
 
 [重排链表](https://leetcode-cn.com/problems/reorder-list/)
+
+2020.10.21
+
+[长按键入](https://leetcode-cn.com/problems/long-pressed-name/)

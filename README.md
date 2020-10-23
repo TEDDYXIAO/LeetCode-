@@ -132,3 +132,11 @@ LeetCode刷题笔记：
 2020.10.21
 
 [长按键入](https://leetcode-cn.com/problems/long-pressed-name/)
+
+2020.10.22
+
+[划分字母区间](https://leetcode-cn.com/problems/partition-labels/)
+
+2020.10.23
+
+[回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)

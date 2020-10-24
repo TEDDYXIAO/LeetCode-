@@ -144,3 +144,7 @@ LeetCode刷题笔记：
 2020.10.24
 
 [视频拼接](https://leetcode-cn.com/problems/video-stitching/)
+
+2020.10.25
+
+[数组中的最长山脉](https://leetcode-cn.com/problems/longest-mountain-in-array/)

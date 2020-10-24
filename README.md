@@ -140,3 +140,7 @@ LeetCode刷题笔记：
 2020.10.23
 
 [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)
+
+2020.10.24
+
+[视频拼接](https://leetcode-cn.com/problems/video-stitching/)

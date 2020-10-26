@@ -148,3 +148,7 @@ LeetCode刷题笔记：
 2020.10.25
 
 [数组中的最长山脉](https://leetcode-cn.com/problems/longest-mountain-in-array/)
+
+2020.10.26
+
+[有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/)

@@ -152,3 +152,7 @@ LeetCode刷题笔记：
 2020.10.26
 
 [有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
+
+2020.10.27
+
+[二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)

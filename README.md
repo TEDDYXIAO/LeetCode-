@@ -156,3 +156,11 @@ LeetCode刷题笔记：
 2020.10.27
 
 [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
+
+2020.10.28
+
+[独一无二的出现次数](https://leetcode-cn.com/problems/unique-number-of-occurrences/)
+
+2020.10.29
+
+[求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)

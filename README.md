@@ -180,3 +180,7 @@ LeetCode刷题笔记：
 2020.11.02
 
 [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)
+
+2020.11.03
+
+[有效的山脉数组](https://leetcode-cn.com/problems/valid-mountain-array/)

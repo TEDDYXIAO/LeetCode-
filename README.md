@@ -192,3 +192,7 @@ LeetCode刷题笔记：
 2020.11.05
 
 [单词接龙](https://leetcode-cn.com/problems/word-ladder/)
+
+2020.11.06
+
+[根据数字二进制下1的数目进行排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/)

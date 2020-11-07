@@ -196,3 +196,7 @@ LeetCode刷题笔记：
 2020.11.06
 
 [根据数字二进制下1的数目进行排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/)
+
+2020.11.07
+
+[区间和的个数](https://leetcode-cn.com/problems/count-of-range-sum/)

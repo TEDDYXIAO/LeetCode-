@@ -204,3 +204,7 @@ LeetCode刷题笔记：
 2020.11.08
 
 [买卖股票的最佳时机II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)
+
+2020.11.09
+
+[最接近远点的K个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/)

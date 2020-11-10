@@ -208,3 +208,7 @@ LeetCode刷题笔记：
 2020.11.09
 
 [最接近远点的K个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/)
+
+2020.11.10
+
+[下一个排列](https://leetcode-cn.com/problems/next-permutation/)

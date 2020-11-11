@@ -212,3 +212,7 @@ LeetCode刷题笔记：
 2020.11.10
 
 [下一个排列](https://leetcode-cn.com/problems/next-permutation/)
+
+2020.11.11
+
+[自由之路](https://leetcode-cn.com/problems/freedom-trail/)

@@ -216,3 +216,7 @@ LeetCode刷题笔记：
 2020.11.11
 
 [自由之路](https://leetcode-cn.com/problems/freedom-trail/)
+
+2020.11.12
+
+[按奇偶排序数组II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)

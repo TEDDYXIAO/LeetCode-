@@ -228,3 +228,7 @@ LeetCode刷题笔记：
 2020.11.14
 
 [数组的相对排序](https://leetcode-cn.com/problems/relative-sort-array/)
+
+2020.11.15
+
+[移掉K位数字](https://leetcode-cn.com/problems/remove-k-digits/)

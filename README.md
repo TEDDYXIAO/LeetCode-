@@ -232,3 +232,7 @@ LeetCode刷题笔记：
 2020.11.15
 
 [移掉K位数字](https://leetcode-cn.com/problems/remove-k-digits/)
+
+2020.11.16
+
+[根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)

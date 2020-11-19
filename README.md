@@ -244,3 +244,7 @@ LeetCode刷题笔记：
 2020.11.18
 
 [加油站](https://leetcode-cn.com/problems/gas-station/)
+
+2020.11.19
+
+[移动零](https://leetcode-cn.com/problems/move-zeroes/)

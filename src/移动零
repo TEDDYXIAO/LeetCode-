@@ -1,0 +1,19 @@
+class Solution {
+    public void moveZeroes(int[] nums) {
+        int p = 0 , q = 0;
+        int n = nums.length;
+        while(q < n){
+            if(nums[q] != 0){
+                swap(nums,p,q);
+                p++;
+            }
+            q++;
+        }
+    }
+
+    public void swap(int[] nums,int p , int q){
+        int temp = nums[p];
+        nums[p] = nums[q];
+        nums[q] = temp;
+    }
+}

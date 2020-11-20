@@ -248,3 +248,7 @@ LeetCode刷题笔记：
 2020.11.19
 
 [移动零](https://leetcode-cn.com/problems/move-zeroes/)
+
+2020.11.20
+
+[对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/)

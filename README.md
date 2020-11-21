@@ -252,3 +252,7 @@ LeetCode刷题笔记：
 2020.11.20
 
 [对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/)
+
+2020.11.21
+
+[排序链表](https://leetcode-cn.com/problems/sort-list/)

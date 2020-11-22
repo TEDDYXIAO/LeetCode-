@@ -256,3 +256,7 @@ LeetCode刷题笔记：
 2020.11.21
 
 [排序链表](https://leetcode-cn.com/problems/sort-list/)
+
+2020.11.22
+
+[有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)

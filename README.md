@@ -264,3 +264,7 @@ LeetCode刷题笔记：
 2020.11.23
 
 [用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/)
+
+2020.11.24
+
+[完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/)

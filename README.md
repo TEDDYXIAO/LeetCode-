@@ -272,3 +272,7 @@ LeetCode刷题笔记：
 2020.11.25
 
 [上升下降字符串](https://leetcode-cn.com/problems/increasing-decreasing-string/)
+
+2020.11.26
+
+[最大间距](https://leetcode-cn.com/problems/maximum-gap/)

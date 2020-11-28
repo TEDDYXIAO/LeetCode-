@@ -280,3 +280,7 @@ LeetCode刷题笔记：
 2020.11.27
 
 [四数相加II](https://leetcode-cn.com/problems/4sum-ii/)
+
+2020.11.28
+
+[翻转对](https://leetcode-cn.com/problems/reverse-pairs/)

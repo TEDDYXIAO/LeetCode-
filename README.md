@@ -288,3 +288,7 @@ LeetCode刷题笔记：
 2020.11.29
 
 [三角形的最大周长](https://leetcode-cn.com/problems/largest-perimeter-triangle/)
+
+2020.11.30
+
+[重构字符串](https://leetcode-cn.com/problems/reorganize-string/)

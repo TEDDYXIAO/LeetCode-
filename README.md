@@ -296,3 +296,7 @@ LeetCode刷题笔记：
 2020.12.01
 
 [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+
+2020.12.02
+
+[拼接最大数](https://leetcode-cn.com/problems/create-maximum-number/)

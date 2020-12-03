@@ -300,3 +300,7 @@ LeetCode刷题笔记：
 2020.12.02
 
 [拼接最大数](https://leetcode-cn.com/problems/create-maximum-number/)
+
+2020.12.03
+
+[计数质数](https://leetcode-cn.com/problems/count-primes/)

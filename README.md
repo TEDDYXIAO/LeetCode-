@@ -304,3 +304,7 @@ LeetCode刷题笔记：
 2020.12.03
 
 [计数质数](https://leetcode-cn.com/problems/count-primes/)
+
+2020.12.04
+
+[分割数组为联系子序列](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/)

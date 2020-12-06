@@ -309,6 +309,10 @@ LeetCode刷题笔记：
 
 [分割数组为联系子序列](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/)
 
-2020.11.05
+2020.12.05
 
 [任务调度器](https://leetcode-cn.com/problems/task-scheduler/)
+
+2020.12.06
+
+[杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)

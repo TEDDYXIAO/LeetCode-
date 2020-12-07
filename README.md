@@ -316,3 +316,7 @@ LeetCode刷题笔记：
 2020.12.06
 
 [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)
+
+2020.12.07
+
+[翻转矩阵后的得分](https://leetcode-cn.com/problems/score-after-flipping-matrix/)

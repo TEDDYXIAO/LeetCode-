@@ -320,3 +320,7 @@ LeetCode刷题笔记：
 2020.12.07
 
 [翻转矩阵后的得分](https://leetcode-cn.com/problems/score-after-flipping-matrix/)
+
+2020.12.08
+
+[将数组拆分成斐波那契数列](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/)

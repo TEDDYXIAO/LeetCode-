@@ -328,3 +328,7 @@ LeetCode刷题笔记：
 2020.12.09
 
 [不同路径](https://leetcode-cn.com/problems/unique-paths/)
+
+2020.12.10
+
+[柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/)

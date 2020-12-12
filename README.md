@@ -332,3 +332,11 @@ LeetCode刷题笔记：
 2020.12.10
 
 [柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/)
+
+2020.12.11
+
+[Dota2参议院](https://leetcode-cn.com/problems/dota2-senate/)
+
+2020.12.12
+
+[摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/)

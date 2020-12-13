@@ -340,3 +340,7 @@ LeetCode刷题笔记：
 2020.12.12
 
 [摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/)
+
+2020.12.13
+
+[存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)

@@ -348,3 +348,7 @@ LeetCode刷题笔记：
 2020.12.14
 
 [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)
+
+2020.12.15
+
+[单调递增的数字](https://leetcode-cn.com/problems/monotone-increasing-digits/)

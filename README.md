@@ -352,3 +352,7 @@ LeetCode刷题笔记：
 2020.12.15
 
 [单调递增的数字](https://leetcode-cn.com/problems/monotone-increasing-digits/)
+
+2020.12.16
+
+[单词规律](https://leetcode-cn.com/problems/word-pattern/)

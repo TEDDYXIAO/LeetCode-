@@ -372,3 +372,7 @@ LeetCode刷题笔记：
 2020.12.20
 
 [去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/)
+
+2020.12.21
+
+[使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)

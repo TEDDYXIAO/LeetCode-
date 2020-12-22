@@ -376,3 +376,7 @@ LeetCode刷题笔记：
 2020.12.21
 
 [使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)
+
+2020.12.22
+
+[二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)

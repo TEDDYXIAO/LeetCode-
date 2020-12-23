@@ -380,3 +380,7 @@ LeetCode刷题笔记：
 2020.12.22
 
 [二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)
+
+2020.12.23
+
+[字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)

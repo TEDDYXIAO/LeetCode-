@@ -384,3 +384,11 @@ LeetCode刷题笔记：
 2020.12.23
 
 [字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
+
+2020.12.24
+
+[分发糖果](https://leetcode-cn.com/problems/candy/)
+
+2020.12.25
+
+[分发饼干](https://leetcode-cn.com/problems/assign-cookies/)

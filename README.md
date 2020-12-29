@@ -404,3 +404,7 @@ LeetCode刷题笔记：
 202.12.28
 
 [买卖股票的最佳时机IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/)
+
+2020.12.29
+
+[按要求补齐数组](https://leetcode-cn.com/problems/patching-array/)

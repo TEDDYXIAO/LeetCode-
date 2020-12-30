@@ -408,3 +408,7 @@ LeetCode刷题笔记：
 2020.12.29
 
 [按要求补齐数组](https://leetcode-cn.com/problems/patching-array/)
+
+2020.12.30
+
+[最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight/)

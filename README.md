@@ -420,3 +420,15 @@ LeetCode刷题笔记：
 2021.01.01
 
 [种花问题](https://leetcode-cn.com/problems/can-place-flowers/)
+
+2020.01.02
+
+[滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)
+
+2020.01.03
+
+[分割链表](https://leetcode-cn.com/problems/partition-list/)
+
+2020.01.04
+
+[斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/)

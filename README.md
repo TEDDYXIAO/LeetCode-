@@ -440,3 +440,7 @@ LeetCode刷题笔记：
 2021.01.06
 
 [除法求值](https://leetcode-cn.com/problems/evaluate-division/)
+
+2021.01.07
+
+[省份数量](https://leetcode-cn.com/problems/number-of-provinces/)

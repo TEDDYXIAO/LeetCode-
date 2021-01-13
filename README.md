@@ -464,3 +464,7 @@ LeetCode刷题笔记：
 2021.01.12
 
 [项目管理](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies/)
+
+2021.01.13
+
+[冗余连接](https://leetcode-cn.com/problems/redundant-connection/)
